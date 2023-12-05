@@ -1,5 +1,5 @@
-### Hello!
+### Hi there 👋, Harlan Phillips
+#### NASA Intern / Computer Engineer
+![Computer Engineer](https://images.theconversation.com/files/488153/original/file-20221004-24-hnznpy.jpg?ixlib=rb-1.1.0&rect=0%2C248%2C7545%2C3772&q=45&auto=format&w=1356&h=668&fit=crop)
 
-My name is Harlan, I'm a dedicated Computer Engineering student at Bakersfield College on a path with aspirations to transfer to a top-tier university such as UC Berkeley. Currently, I'm gaining hands-on experience as an intern at NASA, where I'm diving deep into data science for space exploration. I love experimenting with machine learning and coding in python/swift. Feel free to connect: https://www.linkedin.com/in/harlan-phillips-950190236/.
-
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=harlan3223)](https://github.com/anuraghazra/github-readme-stats)
+My name is Harlan, I'm a dedicated Computer Engineering student at Bakersfield College on a path with aspirations to transfer to a top-tier university such as UC Berkeley. Currently, I'm gaining hands-on experience as an intern at NASA, where I'm diving deep into data science for space exploration. I love experimenting with machine learning and coding in python/swift. 
